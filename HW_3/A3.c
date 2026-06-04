@@ -8,3 +8,4 @@ int main (void)
 	printf("%d+%d+%d=%d\n",a,b,c,x);
 	return 0;
 }
+//t
